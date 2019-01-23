@@ -45,7 +45,7 @@ To install the CLI using `npm`, open a terminal/console window and enter the fol
 
 You can download a sample powerpoint with some basic slides [here](https://github.com/airpptx/samples/blob/master/apps.pptx).
 
-Not all powerpoint shapes are supported yet. A list of supported elements can be found [here]. However, you can write your own [shape renderer](./renderer.md)
+Not all powerpoint shapes are supported yet. A list of supported elements can be found [here](#limitations). However, you can also extend the functionality and add support for your own [shape renderers](#shape-renderer-1)
 
 ## Step 3: Generate the application
 
@@ -73,6 +73,4 @@ AirPPT is a work in progress. Not all shapes nor cases are accounted for. I've t
 
 ### Extending AirPPT
 
-The framework is designed to be extensible so that you can add back your own shapes and custom elements. Here are instructions and building your own renderer to implement a shape.
-
-How to build your own renderer
+The framework is designed to be extensible so that you can add back [your own shapes and custom elements](#shape-renderer-1).
