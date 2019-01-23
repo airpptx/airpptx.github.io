@@ -6,7 +6,7 @@ Powerpoint's simple drag and drop interface makes it easy to prototype and demon
 
 AirPPT lets you go from slideshow canvas to functional UI using Powerpoint as a WYSISYG editor. It's also designed to be extensible!
 
-This guide shows you how to take a slideshow and convert a slide to html. You'll use the [AirPPT CLI tool](cli "CLI command reference").
+This guide shows you how to take a slideshow and convert a slide to html. You'll use the [AirPPT CLI tool](https://www.npmjs.com/package/airppt).
 
 ## Prerequisites
 
