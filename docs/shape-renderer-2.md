@@ -1,6 +1,6 @@
 # Creating a Shape Renderer
 
-After you've understood how [parsing a shape](aaa) works and the attributes that make up a [PowerpointElement](a). You are ready to make a renderer to show .
+After you've understood how [parsing a shape](#shape-renderer-1) works and the attributes that make up a [PowerpointElement](https://github.com/airpptx/airppt-models/blob/master/pptelement.ts). You are ready to make a renderer to show .
 
 Continuing from our past steps, we are writing the renderer for an Octagon.
 

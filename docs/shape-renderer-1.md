@@ -1,6 +1,6 @@
 # Debug and Understand Renderers
 
-Chances are you might want to use a shape that's not supported yet. Checkout the changing [list of supported elements](limitations) to see what we support out of the box.
+Chances are you might want to use a shape that's not supported yet. Checkout the changing [list of supported elements](#limitations) to see what we support out of the box.
 
 In this example, we'll build the shape renderer for an Octagon.
 
@@ -24,7 +24,7 @@ airppt --input {slideshowpath} --slide {slideNumber} --element
 
 7. Expand the `raw` attribute. This shows the powerpoint element directly translated from XML. When the parsed output such as `fill` or `font` don't make sense, it's a good idea to check the raw output to see the original Powerpoint element.
 
-You can checkout the `PowerpointElement` interface [here](aaaa) to learn more.
+You can checkout the `PowerpointElement` interface [here](https://github.com/airpptx/airppt-models/blob/master/pptelement.ts) to learn more.
 
 ### Writing a Renderer
 

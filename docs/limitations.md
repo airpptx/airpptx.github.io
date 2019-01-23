@@ -17,7 +17,7 @@ Here are the supported elements:
 | Charts            | No          |                                            |
 | Slide Backgrounds | Planned     |                                            |
 
-Keep in mind that this project is meant to be extensible. So I highly encourage you to follow the [building a renderer tutorial](W) and add a shape of your own. You can also write custom elements to embed custom elements such as Google Maps or Youtube.
+Keep in mind that this project is meant to be extensible. So I highly encourage you to follow the [building a renderer tutorial](#shape-renderer-1) and add a shape of your own. You can also write custom elements to embed custom elements such as Google Maps or Youtube using a similar methodology.
 
 ## Read Me !
 
